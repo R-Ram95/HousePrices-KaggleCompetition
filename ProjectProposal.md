@@ -8,6 +8,6 @@ I will compete in the House Prices - Advanced Regression Techniques competition 
 I signed up for Kaggle and I see that there are four tutorials for the competition. I will use the tutorials for reference along with feature engineering and regression notes from ENSF 611. I will also rely heavily on the Lab 2 notebook for reference and as a template. 
 
 ## 3. What: Dataset, models, framework, components 2pts
-- https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/description
+- data: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 - SciKit Learn regressors: RandomForest, GradientBoosting
 - I also might try and use XGBoost as I head in class that XGBoost algorithms perform well in Kaggle competitions
