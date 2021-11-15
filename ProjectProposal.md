@@ -1,4 +1,4 @@
-# Project proposal for *YOUR PROJECT TITEL*
+# Project proposal for *Kaggle Competition: House Prices - Advanced Regression Techniques*
 Author: Rohinesh Ram
 
 ## 1. Why: Question/Topic being investigated 1pt
