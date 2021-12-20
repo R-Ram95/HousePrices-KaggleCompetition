@@ -24,6 +24,3 @@ I used the best GBR model to predict sales prices of homes on the Kaggle test da
 
 # Interpretation
 Through my experience with this Kaggle competition I learned the importance of feature engineering and  to consider the types of features in the data. I also learned about technigues such as Imputing which allowed me to fill in missing data rather than removing data which I understand is immensly important in real world scenarios. I also learned how easy it is for ensemble models to overfit the data.
-
-# Reflection
-I did not get a chance to use XGBoost as most of my time went into feature engineering, but for my next attempt, I will try to boost my Kaggle score by using the more power model.
