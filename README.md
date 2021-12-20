@@ -20,7 +20,5 @@ Grid Search Results Plot
 
 
 # Results
-I used the best GBR model to predict sales prices of homes on the Kaggle test dataset. I exported the predictions to a csv and submitting to the Kaggle competition. My Kaggle Score was 0.13164 and I scored 1519 on the leaderboard.
+I used the best GBR model to predict sales prices of homes on the Kaggle test dataset. I exported the predictions to a csv and submitted to the Kaggle competition. My Kaggle Score was 0.13164 and I scored 1519 on the leaderboard.
 
-# Interpretation
-Through my experience with this Kaggle competition I learned the importance of feature engineering and  to consider the types of features in the data. I also learned about technigues such as Imputing which allowed me to fill in missing data rather than removing data which I understand is immensly important in real world scenarios. I also learned how easy it is for ensemble models to overfit the data.
